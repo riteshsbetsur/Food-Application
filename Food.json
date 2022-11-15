@@ -1,0 +1,47 @@
+{
+  "Veg": [
+    {
+      "dishName": "Veg Fried Rice",
+      "price": "100"
+    },
+    {
+      "dishName": "Veg Noodles",
+      "price": "100"
+    },
+    {
+      "dishName": "Veg Gobi Manchurian",
+      "price": "80"
+    },
+    {
+      "dishName": "Veg Babycorn Manchurian",
+      "price": "100"
+    },
+    {
+      "dishName": "Veg Mushroom Manchurian",
+      "price": "120"
+    },
+    {
+      "dishName": "Veg Paneer Manchurian",
+      "price": "120"
+    },
+    {
+      "dishName": "Veg Tawa Biryani",
+      "price": "150"
+    },
+    {
+      "dishName": "Veg 6inch Pizza Exotica",
+      "price": "190"
+    }
+  ],
+
+  "Non-veg": [
+    { "dishName": "Boneless Chicken Biryani", "price": "170" },
+    { "dishName": "Special Chicken Kabab", "price": "180" },
+    { "dishName": "Chicken Biryani", "price": "150" },
+    { "dishName": "Kerala Parota and Chicken Curry", "price": "170" },
+    { "dishName": "Butter Chicken", "price": "290" },
+    { "dishName": "Full Grill", "price": "690" },
+    { "dishName": "Half Grill", "price": "390" },
+    { "dishName": "Chilli Chicken", "price": "690" }
+  ]
+}
